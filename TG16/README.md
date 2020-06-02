@@ -10,12 +10,12 @@ This theme was based on 'spare' v1.0 - 2016-08-18, made by (c) Matt Kennedy. All
 ##Images
 
 *'TG16' Theme System View*
-![TG16 Theme System View]
-(https://github.com/danielcarlosdasilva/ES-Themes-RG-350/blob/master/TG16/system.png)
+
+![TG16 Theme System View](https://github.com/danielcarlosdasilva/ES-Themes-RG-350/blob/master/TG16/system.png)
 
 *'TG16' Theme Basic View*
-![TG16 Theme Basic View]
-(https://github.com/danielcarlosdasilva/ES-Themes-RG-350/blob/master/TG16/games.png)
+
+![TG16 Theme Basic View](https://github.com/danielcarlosdasilva/ES-Themes-RG-350/blob/master/TG16/games.png)
 
 
 [For images of the original 'Spare' theme, view the album on Imgur](http://imgur.com/a/LjRZk)
